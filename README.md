@@ -1,0 +1,2 @@
+# AIMathematics
+mathematics for AI
