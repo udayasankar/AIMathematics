@@ -7,6 +7,8 @@ Ai for mathematics: https://speakerdeck.com/gpeyre/the-many-faces-of-ai-and-the-
 
 Mathematical Tour: https://github.com/mathematical-tours/mathematical-tours.github.io
 
+The Roadmap of Mathematics for Machine Learning: https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning?hide_intro_popup=true
+
 Courses:
 
 Mathematics for Machine Learning and Data Science Specialization: https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science/?irclickid=T2ARvHUewxycTpt0ngTGMwWoUkp3W83%3AUXT4QM0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=5922118&utm_content=b2c&utm_campaignid=Marina%20Wyss&utm_term=14726_SI_1164545_
