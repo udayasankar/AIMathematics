@@ -12,6 +12,12 @@ This is how models represent the world, since embeddings, neural networks, atten
 ∂ Calculus (~15%)
 This is what allows models to improve at all, because gradients, backpropagation, and optimization describe how parameters must change to reduce error across complex loss landscapes.
 
+Think StatsExploratory Data Analysis in Python: https://greenteapress.com/thinkstats2/thinkstats2.pdf
+
+Linear Algebra Done Right: https://linear.axler.net/LADR4e.pdf
+
+
+
 Mike E. : https://github.com/merlihson/scientific-resources
 
 Mathematics for AI: https://arxiv.org/pdf/2501.10465
