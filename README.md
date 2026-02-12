@@ -1,6 +1,17 @@
 # AIMathematics
 mathematics for AI
 
+Behind every neural network, every prediction, and every so-called “AI system” sits a structure built from three core areas of mathematics that quietly drive everything happening in your code.
+
+🔢 Statistics & Probability (~50%)
+This is where learning actually happens, because models do not memorize rules but estimate uncertainty, distributions, likelihoods, and relationships in data. Every prediction is a probabilistic statement shaped by sampling, bias-variance dynamics, and statistical assumptions.
+
+📐 Linear Algebra (~35%)
+This is how models represent the world, since embeddings, neural networks, attention mechanisms, and dimensionality reduction are transformations inside high-dimensional vector spaces where structure becomes mathematically separable.
+
+∂ Calculus (~15%)
+This is what allows models to improve at all, because gradients, backpropagation, and optimization describe how parameters must change to reduce error across complex loss landscapes.
+
 Mike E. : https://github.com/merlihson/scientific-resources
 
 Mathematics for AI: https://arxiv.org/pdf/2501.10465
