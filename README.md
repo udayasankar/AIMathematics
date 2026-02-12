@@ -16,7 +16,7 @@ Think StatsExploratory Data Analysis in Python: https://greenteapress.com/thinks
 
 Linear Algebra Done Right: https://linear.axler.net/LADR4e.pdf
 
-
+MATHEMATICS FOR MACHINE LEARNING: https://mml-book.github.io/book/mml-book.pdf
 
 Mike E. : https://github.com/merlihson/scientific-resources
 
